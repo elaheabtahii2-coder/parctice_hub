@@ -4,5 +4,5 @@
 Small experiments and demos for chains and testnets.
 
 ## Ru
-`bash
+`bashn
 python main.py
