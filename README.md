@@ -3,6 +3,6 @@
 # chainhub
 Small experiments and demos for chains and testnets.
 
-## R
+## Ru
 `bashn
 python main.py
